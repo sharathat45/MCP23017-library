@@ -1,0 +1,45 @@
+#######################################
+# Syntax Coloring Map For MCP23017
+#######################################
+ 
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+ 
+MCP23017	KEYWORD1
+ 
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+ 
+PortRead	KEYWORD2
+PinRead	KEYWORD2
+PortMode	KEYWORD2
+PinMode	KEYWORD2
+PortWrite	KEYWORD2
+PinWrite	KEYWORD2
+PullUpPort	KEYWORD2
+PullUpPin	KEYWORD2
+SetInterruptPinMirroring	KEYWORD2
+SetInterruptPinA	KEYWORD2
+SetInterruptPinB	KEYWORD2
+SetInterruptEventPin	KEYWORD2
+getInterruptPin	KEYWORD2
+ReadInterruptPinValue	KEYWORD2
+ 
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+A	LITERAL1
+B	LITERAL1
+pin0	LITERAL1
+pin1	LITERAL1
+pin2	LITERAL1
+pin3	LITERAL1
+pin4	LITERAL1
+pin5	LITERAL1
+pin6	LITERAL1
+pin7	LITERAL1
+enable	LITERAL1
+disable	LITERAL1
